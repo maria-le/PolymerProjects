@@ -118,6 +118,7 @@ Sorted alphabetically
 | [:link:](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
 | [:link:](https://www.masseffect.com) | Mass Effect | `1.8` | | |
 | [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope) |
+| [:link:](https://mojibrag.firebaseapp.com/) | Meatscope | `1.7` | :heavy_check_mark: | [Source](https://github.com/notwaldorf/mojibrag) |
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [:link:](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
